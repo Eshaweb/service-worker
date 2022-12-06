@@ -27,7 +27,7 @@
     "@angular/service-worker": "^6.0.2",
     "@ngx-pwa/local-storage": "^6.0.0-rc.0",
     "core-js": "^2.5.4",
-    "http-server": "^0.10.0",
+    "http-server": "^14.1.1",
     "moment": "^2.18.1",
     "ng-http-loader": "^2.0.0",
     "ng2-semantic-ui": "^0.9.7",
